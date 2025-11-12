@@ -1,10 +1,8 @@
-Here’s your full edited version with **Emily → SalonApp** and all references to nails replaced with **general beauty/wellness services**:
+
+The SalonApp app is a comprehensive iOS application built with SwiftUI for managing beauty salons and studios, providing a complete ecosystem for clients, technicians, and administrators.
+
 
 ---
-
-The SalonApp - 
-
-A comprehensive iOS application built with SwiftUI for managing beauty salons and studios, providing a complete ecosystem for clients, technicians, and administrators.
 
 ## 📱 Overview
 
@@ -258,6 +256,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support, email [phktistakis@gmail.com](phktistakis@gmail.com) or open an issue in this repository.
+
 
 ---
 
