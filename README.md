@@ -255,7 +255,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email [phktistakis@gmail.com](phktistakis@gmail.com) or open an issue in this repository.
+For support, email [dev@6x7.gr](mailto:dev@6x7.gr) or open an issue in this repository.
 
 
 ---
